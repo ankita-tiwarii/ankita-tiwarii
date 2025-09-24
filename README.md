@@ -1,24 +1,14 @@
-👋 Hi, I'm Ankita Tiwari
-🎓 I'm a Data Analyst with a Master of Computer Applications (MCA) degree, specialized in Artificial Intelligence & Machine Learning from LNCTU, Bhopal.
+I am a Data Analyst with hands-on experience in SQL, Excel, and data visualization, currently working at Virtue Analytics in the product maintenance domain. Over the past 6+ months, I have analyzed large-scale financial aid data, consolidated information from 50+ U.S. colleges, and optimized reporting workflows—improving accuracy by 15% and reducing reporting time by 35%.
 
-💼 Currently working at Virtue Analytics as a Data Analyst, where I’ve worked with data from 20+ colleges. I contribute to a key product called Top 5, which helps students and colleges make smarter decisions about admissions and financial aid. I use SQL and Excel to clean, analyze, and manage large educational datasets.
+During my internship, I enhanced model accuracy by validating 100+ academic transcripts, resolved anomalies to boost data readability, and improved decision-making efficiency for the development team.
 
-🔍 I'm passionate about solving real-world problems using data and turning complex datasets into clear, actionable insights.
-I’ve built end-to-end projects in:
+Beyond professional work, I’ve completed impactful projects, including:
 
-Sales & Marketing Analysis
+Digital Music Store Analysis: Uncovered customer spending patterns with SQL and Excel, improving revenue efficiency by 15%.
 
-HR & Employee Insights
+WAZE Navigation App: Built a machine learning model in Python to predict churn, reducing churn rate by 15% and identifying key drivers of user retention.
 
-Finance & Credit Card Analytics
+🎓 I hold a Master’s in Computer Applications (AI & ML) from LNCT University with an 8.0 GPA, and a Bachelor’s in Computer Applications from MCU University.
 
-Healthcare Analysis
+I’m passionate about leveraging data to solve business problems, optimize processes, and provide actionable insights. Currently, I’m looking to connect with professionals in analytics and explore opportunities to grow in data-driven roles.
 
-Education & Grant Optimization
-
-🛠️ Tools & Skills:
-SQL | Excel | Power BI | Python (Pandas, NumPy) | Data Cleaning | Data Visualization | DAX | Dashboarding
-
-🌱 Currently exploring: Generative AI, Advanced Power BI, and AI-powered analytics tools.
-
-📬 Let’s connect! I’m always open to collaborating, learning new things, and working on impactful data projects.
