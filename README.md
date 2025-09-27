@@ -1,4 +1,4 @@
-I am a Data Analyst with hands-on experience in SQL, Excel, and data visualization, currently working at Virtue Analytics in the product maintenance domain. Over the past 6+ months, I have analyzed large-scale financial aid data, consolidated information from 50+ U.S. colleges, and optimized reporting workflows—improving accuracy by 15% and reducing reporting time by 35%.
+I am a Data Analyst with hands-on experience in SQL, Excel, and data visualization, currently working at Virtue Analytics in the product maintenance domain. Over the past 7+ months, I have analyzed large-scale financial aid data, consolidated information from 50+ U.S. colleges, and optimized reporting workflows—improving accuracy by 15% and reducing reporting time by 35%.
 
 During my internship, I enhanced model accuracy by validating 100+ academic transcripts, resolved anomalies to boost data readability, and improved decision-making efficiency for the development team.
 
